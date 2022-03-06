@@ -1,0 +1,29 @@
+{
+  "name": "refactored-potato",
+  "version": "1.0.0",
+  "description": "project ORM",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RCSchornick/refactored-potato.git"
+  },
+  "keywords": [
+    "n/a"
+  ],
+  "author": "RC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RCSchornick/refactored-potato/issues"
+  },
+  "homepage": "https://github.com/RCSchornick/refactored-potato#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "dotenv": "^16.0.0",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.17.0"
+  }
+}

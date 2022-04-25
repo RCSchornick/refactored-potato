@@ -1,11 +1,9 @@
 # MVC Tech-Blog
-  "not licensed"
-  
-  
-    * [Installation](#installation)
-    * [Usage](#usage)
-    * [Contributions](#contributions)
-    * [License](#license)
+ 
+ DEPLOYED LINK = https://mvc-tech-blog-rc.herokuapp.com/login
+ 
+ ![Uploading image.png…]()
+
     
   
   

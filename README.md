@@ -2,9 +2,8 @@
  
  DEPLOYED LINK = https://mvc-tech-blog-rc.herokuapp.com/login
  
- ![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/94027300/165020952-6dc9e0d0-f22b-491b-95c6-d38a981c0e8c.png)
 
-    
   
   
   ## Description
